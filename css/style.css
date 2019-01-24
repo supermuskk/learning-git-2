@@ -1,5 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
 .container {
     margin: 100px auto;
     max-width: 1200px;
     text-align: center;
+}
+
+h1 {
+    color: navy;
+
+}
+
+p {
+    padding-top: 50px;
 }
