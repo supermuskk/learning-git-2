@@ -1,18 +1,23 @@
 body {
-    font-family: Arial, sans-serif;
+  font-family: Arial, sans-serif;
 }
 
 .container {
-    margin: 100px auto;
-    max-width: 1200px;
-    text-align: center;
+  margin: 100px auto;
+  max-width: 1200px;
+  text-align: center;
 }
 
-h1 {
-    color: navy;
-
+.container h1 {
+  color: navy;
 }
 
-p {
-    padding-top: 50px;
+.container p {
+  padding-top: 50px;
 }
+
+.container .dev1 {
+  font-size: 24px;
+  text-transform: uppercase;
+}
+/*# sourceMappingURL=style.css.map */
